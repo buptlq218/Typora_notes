@@ -55,3 +55,12 @@ $$
 such as: \frac{a}{b}  \times \frac{2}{4}
 $$
 
+粘贴图片说明：把图片保存到images文件夹，写法是：![描述](images/图片 名称.png)
+
+与gh同步的指令：git add .  默认地址下所有内容 or git add 文件名，对应默认地址下的文件
+
+git commit -m "指令名"
+
+git push 即上传
+
+git pull为下载同步云端内容。
